@@ -1,0 +1,7 @@
+docs-defunct
+src/autoencoder
+src/data
+*.mat
+*.pyc
+.dropbox
+Icon
