@@ -1,5 +1,5 @@
 docs-defunct
-src/autoencoder
+src/autoencoder 
 src/data
 *.mat
 *.pyc
